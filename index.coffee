@@ -1,1 +1,1 @@
-module.exports = require "./lib/csml"
+module.exports = require "./src/csml"

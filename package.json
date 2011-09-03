@@ -7,6 +7,10 @@
     "type": "git",
     "url": "git://github.com/benekastah/csml.git"
   },
+  "maintainers": [{
+    "name": "benekastah",
+    "email": "benekastah@gmail.com"
+  }],
   "engines": {
     "node": "~v0.4.9"
   },

@@ -1,6 +1,6 @@
 csml = {}
 html5 = null
-html5Path = __dirname + "/../support/html5"
+html5Path = __dirname + "./html5"
 defProp = Object.defineProperty
 coffee = require 'coffee-script'
 

@@ -3,7 +3,7 @@
   var __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
   csml = {};
   html5 = null;
-  html5Path = __dirname + "/../support/html5";
+  html5Path = __dirname + "./html5";
   defProp = Object.defineProperty;
   coffee = require('coffee-script');
   defProp(csml, "html5", {
