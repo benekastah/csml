@@ -1,0 +1,17 @@
+{
+  "author": "Paul Harper <benekastah@gmail.com>",
+  "name": "csml",
+  "description": "CoffeeScript Markup Lingo (CS -> HTML5)",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/benekastah/csml.git"
+  },
+  "engines": {
+    "node": "~v0.4.9"
+  },
+  "dependencies": {
+    "coffee-script": ">= 1.0.0"
+  },
+  "devDependencies": {}
+}
