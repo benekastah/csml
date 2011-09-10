@@ -12,7 +12,7 @@
     "email": "benekastah@gmail.com"
   }],
   "engines": {
-    "node": "~v0.4.9"
+    "node": ">= 0.4.9"
   },
   "dependencies": {
     "coffee-script": ">= 1.0.0"

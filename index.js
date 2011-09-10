@@ -1,3 +1,2 @@
-(function() {
-  module.exports = require("./src/csml");
-}).call(this);
+require("coffee-script");
+module.exports = require("./src/csml");
